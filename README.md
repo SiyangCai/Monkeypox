@@ -1,2 +1,2 @@
 # Monkeypox
-[Monkey pox data](https://github.com/globaldothealth/monkeypox)
+[Monkeypox data](https://github.com/globaldothealth/monkeypox)
