@@ -6,8 +6,8 @@ This [Monkeypox dataset](https://github.com/globaldothealth/monkeypox) is gather
 This dataset has been well-organised and almost does not require preprocessing. All the data analysis are performed in Python 3.7 (`pandas`, `matplotlib`, `seaborn`). 
 
 ## Results and Visualizations
+I firstly plot the trend of the spread of disease. It is very clear that Monkeypox started to spread around April, and the number of daily confirmed reached the peak around August to September, and then it tend to decrease.
 ![trend](number_of_confirmations_per_day.png)
-
 
 To see the country with the most cases, we can also use a bar plot to show the top 10 countries with the most cases so far after the outbreak of Monkypox.
 ![top 10 country](top_10_countries.png)
