@@ -6,6 +6,9 @@ This [Monkeypox dataset](https://github.com/globaldothealth/monkeypox) is gather
 This dataset has been well-organised and almost does not require preprocessing. All the data analysis are performed in Python 3.7 (`pandas`, `matplotlib`, `seaborn`). 
 
 ## Results and Visualizations
+![trend](number_of_confirmations_per_day.png)
+
+
 To see the country with the most cases, we can also use a bar plot to show the top 10 countries with the most cases so far after the outbreak of Monkypox.
 ![top 10 country](top_10_countries.png)
 
