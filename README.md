@@ -23,5 +23,5 @@ Here I also give an overview of transmission from a global heatmap, which shows 
 It is also worthy to check the travel history by confirmed individuals.
 ![travel](travel.png)
 
-Finally, I also plot a word cloud that shows the most common synptoms among patients.
+Finally, I also plot a word cloud that shows the most common synptoms among patients. However, only less than 1% of the reports are attached with the synptoms from patients. 
 ![word cloud](stylecloud.png)
