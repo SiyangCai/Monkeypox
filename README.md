@@ -20,7 +20,7 @@ Here I also give an overview of transmission from a global heatmap, which shows 
 
 
 
-It is also worthy to check the travel history by confirmed individuals.
+It is also worthy to check the travel history by confirmed individuals. The top numbers are from EU and USA, which are among the countries having most cases.
 ![travel](travel.png)
 
 Finally, I also plot a word cloud that shows the most common synptoms among patients. However, only less than 1% of the reports are attached with the synptoms from patients. We can see that "lensions", "genitals", "fever", "skin" and "rash" are the top 5 mentioned words in reports from patients
