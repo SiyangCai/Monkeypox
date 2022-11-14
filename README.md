@@ -7,7 +7,7 @@ This dataset has been well-organised and almost does not require preprocessing. 
 
 ## Results and Visualizations
 To see the country with the most cases, we can also use a bar plot to show the top 10 countries with the most cases so far after the outbreak of Monkypox.
-![view by country](Top 10 countries.png)
+![top 10 country](top_10_countries.png)
 
 Here I also give an overview of transmission from a global heatmap, which shows the total number of confirmed cases in each counrtry.
 <div class='tableauPlaceholder' id='viz1668350527530' style='position: relative'><noscript><a href='#'><img alt='Global heatmap of total cases ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;Monkeypoxglobalconfirmations&#47;Globalheatmapoftotalcases&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Monkeypoxglobalconfirmations&#47;Globalheatmapoftotalcases' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;Monkeypoxglobalconfirmations&#47;Globalheatmapoftotalcases&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>               
