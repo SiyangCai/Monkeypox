@@ -23,5 +23,5 @@ Here I also give an overview of transmission from a global heatmap, which shows 
 It is also worthy to check the travel history by confirmed individuals.
 ![travel](travel.png)
 
-Finally, I also plot a word cloud that shows the most common synptoms among patients. However, only less than 1% of the reports are attached with the synptoms from patients. We can see that "lensions", "fever" and "genitals" are the top 3 mentioned words in reports from patients
+Finally, I also plot a word cloud that shows the most common synptoms among patients. However, only less than 1% of the reports are attached with the synptoms from patients. We can see that "lensions", "genitals", "fever", "skin" and "rash" are the top 5 mentioned words in reports from patients
 ![word cloud](stylecloud.png) 
