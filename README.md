@@ -24,4 +24,5 @@ It is also worthy to check the travel history by confirmed individuals. The top 
 <img src="travel.png" width="600">
 
 Finally, I also plot a word cloud that shows the most common synptoms among patients. However, only less than 1% of the reports are attached with the synptoms from patients. We can see that "lensions", "genitals", "fever", "skin" and "rash" are the top 5 mentioned words in reports from patients
-![word cloud](stylecloud.png) 
+<img src="sylecloud.png" width="600">
+
