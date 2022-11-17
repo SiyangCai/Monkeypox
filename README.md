@@ -10,7 +10,7 @@ I firstly plot the trend of the spread of disease. It is very clear that Monkeyp
 <img src="number_of_confirmations_per_day.png" width="600">
 
 To see the country with the most cases, we can also use a bar plot to show the top 10 countries with the most cases so far after the outbreak of Monkypox.
-<img src="top_10_countries.png" width="600">
+<img src="top_10_countries.png" width="800">
 
 Here I also give an overview of transmission from a global heatmap, which shows the total number of confirmed cases in each counrtry.
 <div class='tableauPlaceholder' id='viz1668350527530' style='position: relative'><noscript><a href='#'><img alt='Global heatmap of total cases ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;Monkeypoxglobalconfirmations&#47;Globalheatmapoftotalcases&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Monkeypoxglobalconfirmations&#47;Globalheatmapoftotalcases' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;Monkeypoxglobalconfirmations&#47;Globalheatmapoftotalcases&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>               
@@ -21,7 +21,7 @@ Here I also give an overview of transmission from a global heatmap, which shows 
 
 
 It is also worthy to check the travel history by confirmed individuals. The top numbers are from EU and USA, which are among the countries having most cases.
-<img src="travels.png" width="600">
+<img src="travel.png" width="600">
 
 Finally, I also plot a word cloud that shows the most common synptoms among patients. However, only less than 1% of the reports are attached with the synptoms from patients. We can see that "lensions", "genitals", "fever", "skin" and "rash" are the top 5 mentioned words in reports from patients
 ![word cloud](stylecloud.png) 
