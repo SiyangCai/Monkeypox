@@ -9,7 +9,7 @@ This dataset has been well-organised and almost does not require preprocessing. 
 I firstly plot the trend of the spread of disease. It is very clear that Monkeypox started to spread around April, and the number of daily confirmed reached the peak around August to September, and then it tend to decrease.
 <img src="number_of_confirmations_per_day.png" width="600">
 
-To see the country with the most cases, we can also use a bar plot to show the top 10 countries with the most cases so far after the outbreak of Monkypox.
+To see the country with the most cases, we can also use a bar plot to show the top 10 countries with the most cases so far after the outbreak of Monkypox. Top 3 countries are US, Brazil and Spain.
 <img src="top_10_countries.png" width="800">
 
 Here I also give an overview of transmission from a global heatmap, which shows the total number of confirmed cases in each counrtry.
